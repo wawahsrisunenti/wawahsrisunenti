@@ -1,7 +1,22 @@
-# 💫 About Me:
+# <h1 align="center">
 
-I am an Informatics Management student at LP3I Polytechnic. My current <br>spokesperson is Informatics Computer. I am passionate about technology & computers, <br>apart from that I have other passions for develop .<br><br>i'm currently working on backend with PHP, Javascript & Framework such as Express.js, Next.js, Codeigniter & Laravel. Sometimes, I'm spend time to learn frontend using React.js and Vue.js.
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wawah+Sri+Sunenti!;" />
 
+</h1>
+
+<h3 align="center">A Full Stack Developer Wannabe</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently Student at **LP3I Polytechnic**
+ 
+ 🌱 Now i'm learn about **Web Development**
+
+ </div>
+ <hr/>
+ 
 ## 🌐 Socials:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%237289DA.svg?logo=twitter&logoColor=white)](https://twitter.com/howyoulikedeath) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wawah.sri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chihuahuah.rar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wawah-sri-sunenti/) [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@chihuahuah.rar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@wawahsri6418/)
